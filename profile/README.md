@@ -10,6 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+- zh_CN [简体中文](readme/README.zh_CN.md)
 We are a team that loves open source and usually develop using multiple programming languages such as Java, Go, Rust, Kotlin, Swift, Dart, Zig, etc.
 We are committed to developing high-quality, high-performance and easy-to-use Open-source software and making contributions to the open source community. 
 Our team members come from different backgrounds and fields, with rich development experience and technical capabilities. 
