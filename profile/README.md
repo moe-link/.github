@@ -12,9 +12,4 @@
 -->
 - zh_CN [简体中文](/profile/README.zh_CN.md)
 
-We are a team that loves open source and usually develop using multiple programming languages such as Java, Go, Rust, Kotlin, Swift, Dart, Zig, etc.
-We are committed to developing high-quality, high-performance and easy-to-use Open-source software and making contributions to the open source community. 
-Our team members come from different backgrounds and fields, with rich development experience and technical capabilities. 
-We focus on team collaboration and knowledge sharing, improving our technical level and development capabilities through continuous learning and communication. 
-Our open source project covers many fields and application scenarios, such as Microservices framework, distributed system, blockchain, artificial intelligence, etc. 
-We believe in the power of open source and believe that it can make software more efficient.
+我们是一支热爱开源的团队，平常使用Java、Go、Rust、Kotlin、Swift、Dart、Zig等多种编程语言进行开发。 我们致力于开发高质量、高性能、易用性的开源软件，为开源社区做出贡献。 我们的团队成员来自不同的背景和领域，有着丰富的开发经验和技术能力。 我们注重团队协作和知识分享，通过不断学习和交流，提高自身的技术水平和开发能力。 我们的开源项目涵盖了多个领域和应用场景，如微服务框架、分布式系统、区块链、人工智能等。 我们相信开源的力量，相信开源可以让软件更加高效。
